@@ -3,7 +3,7 @@
 ## Overview
 
 * [My Awesome API](README.md)
-* Project API
+* [Project API](project-api.md)
 
 ## Methods
 
